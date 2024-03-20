@@ -1,0 +1,7 @@
+D:\Pemrograman\Class Object Taxi\ObjectTaxi 5711\ObjectTaxi 5711\bin\Debug\ObjectTaxi 5711.exe.config
+D:\Pemrograman\Class Object Taxi\ObjectTaxi 5711\ObjectTaxi 5711\bin\Debug\ObjectTaxi 5711.exe
+D:\Pemrograman\Class Object Taxi\ObjectTaxi 5711\ObjectTaxi 5711\bin\Debug\ObjectTaxi 5711.pdb
+D:\Pemrograman\Class Object Taxi\ObjectTaxi 5711\ObjectTaxi 5711\obj\Debug\ObjectTaxi 5711.csproj.AssemblyReference.cache
+D:\Pemrograman\Class Object Taxi\ObjectTaxi 5711\ObjectTaxi 5711\obj\Debug\ObjectTaxi 5711.csproj.CoreCompileInputs.cache
+D:\Pemrograman\Class Object Taxi\ObjectTaxi 5711\ObjectTaxi 5711\obj\Debug\ObjectTaxi 5711.exe
+D:\Pemrograman\Class Object Taxi\ObjectTaxi 5711\ObjectTaxi 5711\obj\Debug\ObjectTaxi 5711.pdb
